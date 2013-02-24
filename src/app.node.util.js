@@ -6,7 +6,7 @@
     
     'use strict';
     
-    /** nampspace */
+    /** @nampspace */
     app.node.util = {};
     
     function findRef(obj, list, msg) {

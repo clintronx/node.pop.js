@@ -7,7 +7,7 @@
     
     'use strict';
     
-    /** namespace */
+    /** @namespace */
     app.node.action = {};
         
     function addLink() {
